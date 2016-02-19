@@ -1,0 +1,20 @@
+Liberty Mutual GA
+=================
+
+1. GA Send Syntax
+2. Static Event Tracking
+3. The Form
+4. The YouTube Video
+
+
+
+GA Send Documentation:
+https://developers.google.com/analytics/devguides/collection/analyticsjs/events
+
+
+
+YouTube Event Documentation:
+http://www.lunametrics.com/blog/2015/05/11/updated-youtube-tracking-google-analytics-gtm/
+
+YouTube Event Source:
+https://github.com/lunametrics/youtube-google-analytics/
